@@ -4,4 +4,4 @@ description: Halaman Dokumentasi Komunitas Laboretorium.
 
 # Dokumentasi
 
-Documentasi Komunitas LabOREtorium
+Halaman ini berisi pengenalan komunitas LabOREtorium.&#x20;

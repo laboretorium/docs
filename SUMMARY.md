@@ -1,7 +1,5 @@
 # Table of contents
 
 * [Dokumentasi](README.md)
-
-## Komunitas
-
-* [Latar Belakang](komunitas/latar-belakang.md)
+* [Mengenal LabOREtorium](mengenal-laboretorium.md)
+* [Logo LabOREtorium](logo-laboretorium.md)
